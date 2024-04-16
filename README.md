@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sumitkoundilya
+- 👨‍💻 A Software Developer 
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning node for backend
 - 💞️ I’m looking to collaborate on any project
